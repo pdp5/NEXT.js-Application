@@ -1,0 +1,11 @@
+{
+  "Login": {
+    "title": "Inicia sesión en tu cuenta"
+  },
+  "Register": {
+    "title": "Crea una nueva cuenta"
+  },
+  "Book": {
+    "title": "Explora nuestra colección de libros"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Login": {
+    "title": "Sign in to your account"
+  },
+  "Register": {
+    "title": "Create a new account"
+  },
+  "Book": {
+    "title": "Browse our book collection"
+  }
+}
